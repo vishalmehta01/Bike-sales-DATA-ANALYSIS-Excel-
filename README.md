@@ -1,4 +1,4 @@
-# Bike-sales-DATA-ANALYSIS-Excel-# 🚴‍♂️ Bike Sales Dashboard
+# 🚴‍♂️ Bike Sales Dashboard
 
 An interactive dashboard built using Microsoft Excel to analyze bike sales performance .
 ## 📊 Overview
