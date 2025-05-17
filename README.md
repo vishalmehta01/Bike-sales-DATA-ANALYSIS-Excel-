@@ -1,13 +1,12 @@
 # Bike-sales-DATA-ANALYSIS-Excel-# 🚴‍♂️ Bike Sales Dashboard
 
-An interactive dashboard built using Microsoft Excel to analyze bike sales performance based on customer demographics and product-related metrics.
-
+An interactive dashboard built using Microsoft Excel to analyze bike sales performance .
 ## 📊 Overview
 
-This project explores bike sales data and provides key insights through a dynamic Excel dashboard. It is designed to help sales and marketing teams make informed decisions regarding customer segmentation, product preferences, and regional performance.
+This project explores bike sales data and provides key insights through Excel dashboard. It is designed to help sales and marketing teams make informed decisions regarding customer segmentation, product preferences, and regional performance.
 
 ## 🧾 Dataset
-
+-<a href="https://github.com/vishalmehta01/Bike-sales-DATA-ANALYSIS-Excel-/blob/main/Bike%20sales%20Dataset.xlsx">Bike sales dataset</a>
 The dataset contains various features including:
 
 - Customer Information (Gender, Age, Income, Occupation)
