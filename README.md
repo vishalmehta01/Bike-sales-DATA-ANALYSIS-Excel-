@@ -7,6 +7,7 @@ This project explores bike sales data and provides key insights through Excel da
 
 ## 🧾 Dataset
 -<a href="https://github.com/vishalmehta01/Bike-sales-DATA-ANALYSIS-Excel-/blob/main/Bike%20sales%20Dataset.xlsx">Bike sales dataset</a>
+
 The dataset contains various features including:
 
 - Customer Information (Gender, Age, Income, Occupation)
@@ -29,7 +30,9 @@ The dataset contains various features including:
   - Charts (Bar, Pie, Line)
   - Conditional Formatting
 
-## 📂 File Structure
+## 📂 Result
+-<a href="link">Bike sales dataset</a>
+
 
 
 
